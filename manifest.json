@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "author": "keewooi",
+  "homepage_url": "http://hello.keewooi.com",
+  "name": "Goto Apps",
+  "description": "New tab = Apps page",
+  "version": "1.1",
+  "chrome_url_overrides" : {
+    "newtab": "myPage.html"
+  }
+}
